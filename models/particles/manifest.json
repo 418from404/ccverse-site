@@ -1,0 +1,53 @@
+{
+  "version": "rc3-1",
+  "generatedAt": "2026-10-22T00:12:01.772Z",
+  "seed": 42,
+  "source": "public/models/rose.glb",
+  "sourceSha256": "b6ef0d3c9a974112a880dc442f17659ff434a41e0229efa131fd10123bbc4c45",
+  "accessoryParticleCount": 10000,
+  "targetSize": 1.2,
+  "rimFraction": 0.12,
+  "stride": 13,
+  "tiers": {
+    "high": {
+      "file": "rose-high.bin",
+      "particleCount": 40000,
+      "headCount": 30000,
+      "boundsRadius": 1.8408627085270368,
+      "halfHeight": 1.724230478212318,
+      "halfWidth": 1.3644053905883342,
+      "halfDepth": 0.6827727034683987,
+      "headRadius": 0.6
+    },
+    "mid": {
+      "file": "rose-mid.bin",
+      "particleCount": 33400,
+      "headCount": 23400,
+      "boundsRadius": 1.844845169537775,
+      "halfHeight": 1.727575236423181,
+      "halfWidth": 1.3672354345803295,
+      "halfDepth": 0.6841889077729829,
+      "headRadius": 0.6
+    },
+    "exhibitMobile": {
+      "file": "rose-exhibitMobile.bin",
+      "particleCount": 30000,
+      "headCount": 20000,
+      "boundsRadius": 1.8421438871412958,
+      "halfHeight": 1.725800823009622,
+      "halfWidth": 1.3658311305341364,
+      "halfDepth": 0.683486169073235,
+      "headRadius": 0.6
+    },
+    "survival": {
+      "file": "rose-survival.bin",
+      "particleCount": 30000,
+      "headCount": 20000,
+      "boundsRadius": 1.8421438871412958,
+      "halfHeight": 1.725800823009622,
+      "halfWidth": 1.3658311305341364,
+      "halfDepth": 0.683486169073235,
+      "headRadius": 0.6
+    }
+  }
+}
